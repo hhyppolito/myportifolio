@@ -8,6 +8,6 @@ blblbllblblbla
 
 ### Projects
 Project 1
-![Project 1]{/assets/351-MHASS.jpg}
+![Project 1]{asset/351-MHASS.jpg}
 Project 2
 Project 3
