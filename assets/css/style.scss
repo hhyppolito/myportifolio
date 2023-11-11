@@ -70,10 +70,10 @@ h3 {
 //  color:#777;
 //}
 //
-//.wrapper {
-//  width:860px;
-//  margin:0 auto;
-//}
+.wrapper {
+  width:860px;
+  margin:0 auto;
+}
 //
 //blockquote {
 //  border-left:1px solid #e5e5e5;
@@ -138,7 +138,7 @@ header {
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
-//}
+}
 //
 //ul.downloads {
 //  list-style:none;
@@ -200,11 +200,11 @@ header {
 //  color:#222;
 //}
 //
-//section {
-//  width:500px;
-//  float:right;
-//  padding-bottom:50px;
-//}
+section {
+  width:500px;
+  float:right;
+  padding-bottom:50px;
+}
 //
 //small {
 //  font-size:11px;
@@ -242,12 +242,12 @@ header {
     padding-right:110px;
   }
 //
-//  section {
-//    border:1px solid #e5e5e5;
-//    border-width:1px 0;
-//    padding:20px 0;
-//    margin:0 0 20px;
-//  }
+  section {
+    border:1px solid #e5e5e5;
+    border-width:1px 0;
+    padding:20px 0;
+    margin:0 0 20px;
+  }
 //
 //  header a small {
 //    display:inline;
@@ -260,43 +260,43 @@ header {
 //  }
 //}
 //
-//@media print, screen and (max-width: 720px) {
-//  body {
-//    word-wrap:break-word;
-//  }
+@media print, screen and (max-width: 720px) {
+  body {
+    word-wrap:break-word;
+  }
+
+  header {
+    padding:0;
+  }
+
+  header ul, header p.view {
+    position:static;
+ }
+
+  pre, code {
+   word-wrap:normal;
+  }
+}
+
+@media print, screen and (max-width: 480px) {
+  body {
+    padding:15px;
+  }
+
+  .downloads {
+    width:99%;
+  }
+
+  .downloads li, .downloads li + li + li {
+    width:33%;
+  }
+}
 //
-//  header {
-//    padding:0;
-//  }
-//
-//  header ul, header p.view {
-//    position:static;
-//  }
-//
-//  pre, code {
-//    word-wrap:normal;
-//  }
-//}
-//
-//@media print, screen and (max-width: 480px) {
-//  body {
-//    padding:15px;
-//  }
-//
-//  .downloads {
-//    width:99%;
-//  }
-//
-//  .downloads li, .downloads li + li + li {
-//    width:33%;
-//  }
-//}
-//
-//@media print {
-//  body {
-//    padding:0.4in;
-//    font-size:12pt;
-//    color:#444;
-//  }
+@media print {
+  body {
+    padding:0.4in;
+    font-size:12pt;
+    color:#444;
+ }
 //}
 
