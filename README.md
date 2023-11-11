@@ -1,10 +1,10 @@
 # Structural Engineer
 
 ## Education
-*Master in Civil Engineering Structures*
-* FEUP - University of Porto (_2020 - PORTUGAL_)
-*Bachalor in Civil Engineer* 
-UDESC - State University of Santa Catarina (_2016 - BRASIL_)
+- *Master in Civil Engineering Structures*
+  - FEUP - University of Porto (_2020 - PORTUGAL_)
+- *Bachalor in Civil Engineer* 
+  - UDESC - State University of Santa Catarina (_2016 - BRASIL_)
 
 ## Work Experience
 * *2020-PRESENT - VE-CONCEPT* - Structural Engineer and BIM Manager
