@@ -17,10 +17,10 @@ FEUP - PORTO UNIVERSITY
 ### FERPINTA - Bissau Abidjan
 
 ### OLIVEIRAS/EPAL - MINI-HIDRICA DA ASSEICEIRA 
-![Project 1](asset/351-MHASS.jpg)
+![Project 1](assets/img/351-MHASS.jpg)
 
 ### CSWIND - UNIDADE INDUSTRIAL DA CSWIND-OFFSHORE EM ÍLHAVO
-![Project 2](asset/426-CSWIND.jpg)
+![Project 2](assets/img/426-CSWIND.jpg)
 
 ### FINERGE - FUNDAÇÃO PARA AEROGERADOR GE 158
 
