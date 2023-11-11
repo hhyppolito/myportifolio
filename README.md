@@ -1,7 +1,7 @@
 # Structural Engineer
 
 ## Education
-* Master in Civil Engineering Structures | FEUP - UNIVERSITY OF PORTO (_ 2020 - PORTUGAL_)
+* Master in Civil Engineering Structures | FEUP - UNIVERSITY OF PORTO (_2020 - PORTUGAL_)
 * Bachalor in Civil Engineer | UDESC - STATE UNIVERSITY OF SANTA CATARINA (_2016 - BRASIL_)
 
 ## Work Experience
