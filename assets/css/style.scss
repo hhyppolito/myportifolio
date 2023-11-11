@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "jekyll-theme-minimal";
+@import "{{ site.theme }}";
 
 
 body {
@@ -10,11 +10,11 @@ body {
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
   font-weight:400;
-//}
-//
+}
+
 //h1, h2, h3, h4, h5, h6 {
 //  color:#222;
-//  margin:0 0 20px;
+// margin:0 0 20px;
 //}
 //
 //p, ul, ol, table, pre, dl {
