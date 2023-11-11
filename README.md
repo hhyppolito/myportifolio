@@ -1,15 +1,15 @@
 # Structural Engineer
 
 ## Education
-- *Master in Civil Engineering Structures*
+- **Master in Civil Engineering Structures**
   - FEUP - University of Porto (_2020 - PORTUGAL_)
-- *Bachalor in Civil Engineer* 
+- **Bachelor’s Degree in Civil Engineer** 
   - UDESC - State University of Santa Catarina (_2016 - BRASIL_)
 
 ## Work Experience
-* *2020-PRESENT - VE-CONCEPT* - Structural Engineer and BIM Manager
-* *2017-2020 - INDEPENDENT* - Civil Engineer
-* *2016-2017 - MRV ENGENHAIRA* - Intern / Production Analyst 
+* **2020-PRESENT - VE-CONCEPT** - Structural Engineer and BIM Manager
+* **2017-2020 - INDEPENDENT** - Civil Engineer
+* **2016-2017 - MRV ENGENHAIRA** - Intern / Production Analyst 
 
 ## Projects
 ### APDL - CENTRO INSPETIVO DO PORTO DE LEIXÕES (CIPL)
