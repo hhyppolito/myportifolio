@@ -1,10 +1,8 @@
 title: Henrique Franzener Hyppolito
 logo: assets/img/Perfil.png
-description: |
-    ### Heading
-
-    * Bullet
-    * Points
+description: >
+    Your long
+    string here.
 
 #show_downloads: true
 theme: jekyll-theme-minimal
