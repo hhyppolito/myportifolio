@@ -95,7 +95,7 @@
   - Desing steel connections.
   - Draw 2D details.
   
-##Other Projects
+### Other Projects
 - 344 - B30 - Lar de idosos
 - 322 - Cesar - Moradia Meirinhos
 - 355 - Creches - Gaia
@@ -114,3 +114,4 @@
 - 511 - ETE - Parque Contentores - Lote 12
 - 524 - APDL - Antena VTS
 - 533 - IHRU - BAK - Quinta das Conchinhas
+
