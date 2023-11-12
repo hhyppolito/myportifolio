@@ -96,22 +96,24 @@
   - Draw 2D details.
   
 ### Other Projects
-- 344 - B30 - Lar de idosos
-- 322 - Cesar - Moradia Meirinhos
-- 355 - Creches - Gaia
-- 361 - EFI - HCC - Cotovia
-- 366 - B30 - ERPI Pombal
-- 368 - Ferpinta - Guine Bissau
-- 389 - Inesctec - plataforma APDL
-- 400 - Torre Centro Civico
-- 420 - INVENIO-MG-Quinta do Pinheiro
-- 434 - Kronos - Paço Lumiar
-- 463 - Voltalia - Montclar
-- 485 - Maternidade Coimbra
-- 488 - Kronos - Planbelas
-- 491 - INVENIO - Fund grua
-- 500 - Bysteel - Gare Massy
-- 511 - ETE - Parque Contentores - Lote 12
-- 524 - APDL - Antena VTS
-- 533 - IHRU - BAK - Quinta das Conchinhas
-
+- Nursing Home Building - Guarda/PT (EP)
+- Single-family Detached Home (with black concrete exterior walls) - Porto/PT (EP)
+- Day care center - Vila Nova Gaia/PT (EP)
+- Concrete Residencial Building with 5 Levels + Underground Parking Lot - Lisbon/PT (EP)
+- Nursing Home Building - Pombal/PT (EP)
+- Steel Plataform -  Port of Leixões/PT (EP)
+- Concrete Office Building with 14 floors - Gaia/PT (BFC)
+- Concrete Residencial Building with 5 Levels + 2 Underground Parking Lot - Porto/PT (PL)
+- Concrete Residencial Building with 5 Levels - Lisbon/PT (PL)
+- Cable Supported for PV panels - Montclair/FR (BFC)
+- Maternity Hospital - Coimbra/PT (PL)
+- Concrete Residencial Building with 5 Levels - Lisbon/PT (PL)
+- Foundation for Crane Strucuture - Porto/PT (EP)
+- Metro Station in Paris - Paris/FR (BFC)
+- Steel Isolated Roof for a container parking area - Port of Leixões/PT (EP)
+- Radar connection to existing building - Port of Leixões/PT (EP)
+- Concrete Residencial Building with 7 Levels + Underground Parking Lot - Lisbon/PT (PL)
+#### EP - Execution Project
+#### BFC - Biding for Construction
+#### PL - Porject for licensing
+ 
