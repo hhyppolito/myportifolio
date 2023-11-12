@@ -160,12 +160,12 @@ ul.downloads {
   width:90px;
 }
 //
-//.downloads li {
-//  width:89px;
-//  float:left;
-//  border-right:1px solid #e0e0e0;
-//  height:40px;
-//}
+.downloads li {
+  width:89px;
+  float:left;
+  border-right:1px solid #e0e0e0;
+  height:40px;
+}
 //
 //.downloads li:first-child a {
 //  border-radius:5px 0 0 5px;
@@ -199,10 +199,10 @@ ul.downloads {
 //  font-weight:700;
 //}
 //
-downloads li {
-  border-right:none;
-  width:90px;
-}
+//downloads li {
+//  border-right:none;
+//  width:90px;
+//}
 //
 //.downloads a strong {
 //  font-size:14px;
