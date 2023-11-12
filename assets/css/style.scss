@@ -163,12 +163,13 @@ ul.downloads {
   border-radius:5px;
   border:1px solid #e0e0e0;
   width:90px;
+  border-left: 125px solid #e0e0e0
 }
 //
 .downloads li {
   width:89px;
   float:left;
-  border-right:1px solid #e0e0e0;
+  border-right:1px #e0e0e0;
   height:40px;
 }
 //
