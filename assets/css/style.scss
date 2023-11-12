@@ -234,18 +234,18 @@ section {
 //  -webkit-font-smoothing:subpixel-antialiased;
 //}
 //
-//@media print, screen and (max-width: 960px) {
+@media print, screen and (max-width: 960px) {
 //
 //  div.wrapper {
 //    width:auto;
 //    margin:0;
 //  }
 //
-//  header, section, footer {
+  header, section, footer {
 //    float:none;
 //    position:static;
-//    width:auto;
-//  }
+    width:auto;
+  }
 //
 // header {
 //    padding-right:110px;
