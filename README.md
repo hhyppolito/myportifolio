@@ -19,7 +19,7 @@
 - **Activities:** 
   - BIM Modeling.
   - Concrete Design.
-
+![Project 222](assets/img/APDL_V2__Photo - 1.jpg)
 ### ÁGUAS DE GAIA - SEDE DAS ÁGUAS DE GAIA
 - **Description:** brief description of the project.
 - **Structural type:** Concrete.
