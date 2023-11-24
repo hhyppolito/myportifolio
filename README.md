@@ -31,6 +31,8 @@
   - Foundation Design (Piles and Shallow Foundation)
   - Desing connections for precast architectural elements.
   - Draw 2D details.
+  - 
+![Project 277](assets/gifs/277.gif)
 
 ### FERPINTA - Bissau Abidjan
 - **Description:** brief description of the project.
