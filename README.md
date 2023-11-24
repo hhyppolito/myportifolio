@@ -43,6 +43,8 @@
   - Desing steel connections.
   - Draw 2D details.
 
+![Project 384](assets/gifs/384.gif)
+
 ### OLIVEIRAS/EPAL - MINI-HIDRICA DA ASSEICEIRA 
 - **Description:** brief description of the project.
 - **Structural type:** Steel.
