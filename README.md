@@ -57,7 +57,7 @@
   - Steel Desing.
   - Revit Modelling.
   - Draw 2D details.
-
+![Project 351](assets/gifs/351.gif)
 ![Project 1](assets/img/351-MHASS.jpg)
 
 ### CSWIND - UNIDADE INDUSTRIAL DA CSWIND-OFFSHORE EM ÍLHAVO
