@@ -19,7 +19,7 @@
 - **Activities:** 
   - BIM Modeling.
   - Concrete Design.
-
+![Project 222_gif](assets/gifs/222.gif)
 ![Project 222](assets/img/APDL_V2__Photo-1.jpg)
 
 ### ÁGUAS DE GAIA - SEDE DAS ÁGUAS DE GAIA
