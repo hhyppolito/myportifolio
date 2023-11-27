@@ -58,6 +58,7 @@
   - Revit Modelling.
   - Draw 2D details.
 ![Project 351](assets/gifs/351.gif)
+![Project 351_2](assets/img/351-MHASS-(2).jpg)
 ![Project 1](assets/img/351-MHASS.jpg)
 
 ### CSWIND - UNIDADE INDUSTRIAL DA CSWIND-OFFSHORE EM ÍLHAVO
