@@ -11,9 +11,9 @@
 * **2017-2020 - INDEPENDENT** - Civil Engineer
 * **2016-2017 - MRV ENGENHAIRA** - Intern / Production Analyst 
 
-## Projects
+## Core Projects
 ### APDL - CENTRO INSPETIVO DO PORTO DE LEIXÕES (CIPL)
-- **Description:** brief description of the project. 
+- **Description:**
 - **Structural type:** Precast Concrete. 
 - **Project Environment:** Revit + CAD.
 - **Activities:** 
@@ -23,9 +23,9 @@
 ![Project 222](assets/img/APDL_V2__Photo-1.jpg)
 
 ### ÁGUAS DE GAIA - SEDE DAS ÁGUAS DE GAIA
-- **Description:** brief description of the project.
+- **Description:**
 - **Structural type:** Concrete.
-- **Project Environment:** Classic CAD.
+- **Project Environment:** CAD.
 - **Activities:** 
   - Concrete Design (Retaining walls, Flat Slabs, Beams and Columns).
   - Foundation Design (Piles and Shallow Foundation)
@@ -35,7 +35,7 @@
 ![Project 277](assets/gifs/277.gif)
 
 ### FERPINTA - Bissau Abidjan
-- **Description:** brief description of the project.
+- **Description:**
 - **Structural type:** Steel.
 - **Project Environment:** Tekla + CAD.
 - **Activities:** 
@@ -48,8 +48,8 @@
 ![Project 384](assets/gifs/384.gif)
 
 ### OLIVEIRAS/EPAL - MINI-HIDRICA DA ASSEICEIRA 
-- **Description:** brief description of the project.
-- **Structural type:** Steel.
+- **Description:**
+- **Structural type:** Precast and In-Situ Concrete + Steel.
 - **Project Environment:** Revit + CAD.
 - **Activities:** 
   - Foundation Slab Design.
@@ -62,8 +62,8 @@
 ![Project 1](assets/img/351-MHASS.jpg)
 
 ### CSWIND - UNIDADE INDUSTRIAL DA CSWIND-OFFSHORE EM ÍLHAVO
-- **Description:** brief description of the project.
-- **Structural type:** Steel.
+- **Description:**
+- **Structural type:** Precast and In-Situ Concrete + Steel.
 - **Project Environment:** Tekla + CAD.
 - **Activities:** 
   - Shallow Foundation Design.
@@ -73,9 +73,9 @@
 ![Project 2](assets/img/426-CSWIND.jpg)
 
 ### FINERGE - FUNDAÇÃO PARA AEROGERADOR GE 158
-- **Description:** brief description of the project.
-- **Structural type:** Steel.
-- **Project Environment:** Tekla + CAD.
+- **Description:**
+- **Structural type:** Concrete.
+- **Project Environment:** CAD.
 - **Activities:** 
   - Shallow Foundation Design.
   - Steel Design (2D Frame structure, Runway Beams, Facade Elements).
@@ -86,7 +86,7 @@
 
 ### CSWIND - UNIDADE INDUSTRIAL DA CSWIND-ONSHORE EM SEVER DO VOLGA
 
-### OJE - Porto Seco do Entroncamento
+### APDL - Porto Seco Guarda 
 - **Description:** brief description of the project.
 - **Structural type:** Steel.
 - **Project Environment:** Tekla + CAD.
@@ -95,7 +95,18 @@
   - Steel Design (2D Frame structure, Runway Beams, Facade Elements).
   - Desing steel connections.
   - Draw 2D details.
-### APDL - Porto Seco Guarda 
+ 
+### Kronos Homes - Lisboa - Zen Paço Lumiar
+- **Description:** brief description of the project.
+- **Structural type:** Steel.
+- **Project Environment:** Tekla + CAD.
+- **Activities:** 
+  - Shallow Foundation Design.
+  - Steel Design (2D Frame structure, Runway Beams, Facade Elements).
+  - Desing steel connections.
+  - Draw 2D details.
+
+### Cotovia - Sesimbra  
 - **Description:** brief description of the project.
 - **Structural type:** Steel.
 - **Project Environment:** Tekla + CAD.
