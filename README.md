@@ -81,6 +81,9 @@
   - Steel Design (2D Frame structure, Runway Beams, Facade Elements).
   - Desing steel connections.
   - Draw 2D details.
+![Project 460](assets/img/460-Finerge_GE156-(4).jpg)
+![Project 460](assets/img/460-Finerge_GE156-(11).jpg)
+
 ### CSWIND - UNIDADE INDUSTRIAL DA CSWIND-ONSHORE EM SEVER DO VOLGA
 
 ### OJE - Porto Seco do Entroncamento
