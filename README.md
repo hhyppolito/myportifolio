@@ -13,7 +13,7 @@
 
 ## Core Projects
 ### APDL - CENTRO INSPETIVO DO PORTO DE LEIXÕES (CIPL)
-- **Description:**
+- **Description: 1.2M Estruturas e Fundações **
 - **Structural type:** Precast Concrete. 
 - **Project Environment:** Revit + CAD.
 - **Activities:** 
@@ -23,8 +23,8 @@
 ![Project 222](assets/img/APDL_V2__Photo-1.jpg)
 
 ### ÁGUAS DE GAIA - SEDE DAS ÁGUAS DE GAIA
-- **Description:**
-- **Structural type:** Concrete.
+- **Description: 3.3M Estruturas e Fundações **
+- **Structural type:** Concrete and Precast Concrete.
 - **Project Environment:** CAD.
 - **Activities:** 
   - Concrete Design (Retaining walls, Flat Slabs, Beams and Columns).
@@ -48,7 +48,7 @@
 ![Project 384](assets/gifs/384.gif)
 
 ### OLIVEIRAS/EPAL - MINI-HIDRICA DA ASSEICEIRA 
-- **Description:**
+- **Description:450 Mil Estruturas e Fundações**
 - **Structural type:** Precast and In-Situ Concrete + Steel.
 - **Project Environment:** Revit + CAD.
 - **Activities:** 
@@ -62,10 +62,10 @@
 ![Project 1](assets/img/351-MHASS.jpg)
 
 ### CSWIND - UNIDADE INDUSTRIAL DA CSWIND-OFFSHORE EM ÍLHAVO
-- **Description:**
+- **Description: 55M Estruturas e Fundações**
 - **Structural type:** Precast and In-Situ Concrete + Steel.
 - **Project Environment:** Tekla + CAD.
-- **Activities:** 
+- **Activities:**  
   - Shallow Foundation Design.
   - Steel Design (2D Frame structure, Runway Beams, Facade Elements).
   - Desing steel connections.
@@ -87,9 +87,9 @@
 ### CSWIND - UNIDADE INDUSTRIAL DA CSWIND-ONSHORE EM SEVER DO VOLGA
 
 ### APDL - Porto Seco Guarda 
-- **Description:** brief description of the project.
-- **Structural type:** Steel.
-- **Project Environment:** Tekla + CAD.
+- **Description:** 500Mil Estruturas e Fundações.
+- **Structural type:** Concrete + Steel.
+- **Project Environment:** Revit + CAD.
 - **Activities:** 
   - Shallow Foundation Design.
   - Steel Design (2D Frame structure, Runway Beams, Facade Elements).
@@ -97,19 +97,19 @@
   - Draw 2D details.
  
 ### Kronos Homes - Lisboa - Zen Paço Lumiar
-- **Description:** brief description of the project.
-- **Structural type:** Steel.
-- **Project Environment:** Tekla + CAD.
+- **Description:**  5.4 M Estruturas e Fundações.
+- **Structural type:** Concrete + Steel.
+- **Project Environment:** Revit + CAD.
 - **Activities:** 
   - Shallow Foundation Design.
   - Steel Design (2D Frame structure, Runway Beams, Facade Elements).
   - Desing steel connections.
   - Draw 2D details.
 
-### Cotovia - Sesimbra  
-- **Description:** brief description of the project.
-- **Structural type:** Steel.
-- **Project Environment:** Tekla + CAD.
+### EFI - Cotovia - Sesimbra  
+- **Description:** 2.3M.
+- **Structural type:** Concrete + Steel.
+- **Project Environment:** Revit + CAD.
 - **Activities:** 
   - Shallow Foundation Design.
   - Steel Design (2D Frame structure, Runway Beams, Facade Elements).
