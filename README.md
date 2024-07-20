@@ -13,7 +13,7 @@
 
 ## Core Projects
 ### APDL - CENTRO INSPETIVO DO PORTO DE LEIXÕES (CIPL)
-- **Description: 1.2M Estruturas e Fundações **
+- **Description:** 1.2M€ Structures and Foundation.
 - **Structural type:** Precast Concrete. 
 - **Project Environment:** Revit + CAD.
 - **Activities:** 
@@ -23,7 +23,8 @@
 ![Project 222](assets/img/APDL_V2__Photo-1.jpg)
 
 ### ÁGUAS DE GAIA - SEDE DAS ÁGUAS DE GAIA
-- **Description: 3.3M Estruturas e Fundações **
+- **Description:** Headquarters of the water supply agency of Vila Nova de Gaia municipality of Porto,Portugal.
+- **Estimated Cost:** 3.3€ Structures and Foundation.
 - **Structural type:** Concrete and Precast Concrete.
 - **Project Environment:** CAD.
 - **Activities:** 
@@ -31,11 +32,12 @@
   - Foundation Design (Piles and Shallow Foundation)
   - Desing connections for precast architectural elements.
   - Draw 2D details.
-  - 
+    
 ![Project 277](assets/gifs/277.gif)
 
 ### FERPINTA - Bissau Abidjan
-- **Description:**
+- **Description:** Facility of the FERPINTA Group in Abidjan, Bissau.
+- **Estimated Cost:** 1.3M€ Structures and Foundation.
 - **Structural type:** Steel.
 - **Project Environment:** Tekla + CAD.
 - **Activities:** 
@@ -48,7 +50,8 @@
 ![Project 384](assets/gifs/384.gif)
 
 ### OLIVEIRAS/EPAL - MINI-HIDRICA DA ASSEICEIRA 
-- **Description:450 Mil Estruturas e Fundações**
+- **Description:** This building holds a water turbine to generate energy from potable water due to a high slope region in the pipeline. 
+- **Estimated Cost:** 450k€ Structures and Foundation
 - **Structural type:** Precast and In-Situ Concrete + Steel.
 - **Project Environment:** Revit + CAD.
 - **Activities:** 
@@ -62,15 +65,17 @@
 ![Project 1](assets/img/351-MHASS.jpg)
 
 ### CSWIND - UNIDADE INDUSTRIAL DA CSWIND-OFFSHORE EM ÍLHAVO
-- **Description: 55M Estruturas e Fundações**
-- **Structural type:** Precast and In-Situ Concrete + Steel.
+- **Estimated Cost:** 55M€ Structures and Foundation.
+- **Structural type:** Precast and In-Situ Concrete and Steel.
 - **Project Environment:** Tekla + CAD.
-- **Activities:**  
-  - Shallow Foundation Design.
-  - Steel Design (2D Frame structure, Runway Beams, Facade Elements).
+- **Activities:**
+  - Project Coordination.   
+  - Shallow Foundation Design and Pile Design.
+  - Steel Design (2D Frame structure including a 52m free-span truss for a warehouse, Runway Beams, Facade Elements).
   - Desing steel connections.
   - Draw 2D details.
 ![Project 2](assets/img/426-CSWIND.jpg)
+
 
 ### FINERGE - FUNDAÇÃO PARA AEROGERADOR GE 158
 - **Description:**
@@ -87,7 +92,7 @@
 ### CSWIND - UNIDADE INDUSTRIAL DA CSWIND-ONSHORE EM SEVER DO VOLGA
 
 ### APDL - Porto Seco Guarda 
-- **Description:** 500Mil Estruturas e Fundações.
+- **Estimated Cost: 500k€ Structures and Foundation**
 - **Structural type:** Concrete + Steel.
 - **Project Environment:** Revit + CAD.
 - **Activities:** 
@@ -97,7 +102,7 @@
   - Draw 2D details.
  
 ### Kronos Homes - Lisboa - Zen Paço Lumiar
-- **Description:**  5.4 M Estruturas e Fundações.
+- **Estimated Cost: 5.4 M Estruturas e Fundações.**
 - **Structural type:** Concrete + Steel.
 - **Project Environment:** Revit + CAD.
 - **Activities:** 
@@ -107,7 +112,7 @@
   - Draw 2D details.
 
 ### EFI - Cotovia - Sesimbra  
-- **Description:** 2.3M.
+- **Description: 2.3M Structures and Foundation.**
 - **Structural type:** Concrete + Steel.
 - **Project Environment:** Revit + CAD.
 - **Activities:** 
