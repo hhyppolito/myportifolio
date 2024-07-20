@@ -69,16 +69,21 @@
 - **Structural type:** Precast and In-Situ Concrete and Steel.
 - **Project Environment:** Tekla + CAD.
 - **Activities:**
-  - Project Coordination.   
+  - Design of concrete precast elemets for large wind pile factory, incluiding runway beams for cranes up to 250t and support columns with 26m heigh.
   - Shallow Foundation Design and Pile Design.
-  - Steel Design (2D Frame structure including a 52m free-span truss for a warehouse, Runway Beams, Facade Elements).
-  - Desing steel connections.
-  - Draw 2D details.
+  - Project Coordination.
+  - Design of a steel Frame warehouse with 52m free-span truss for a warehouse.
+  - Design steel connections.
+  - Design of steel support structures for large gates with dimensions up to 11x15m.
+  - Draw 2D details and 3D modeling of structural elements.
 ![Project 2](assets/img/426-CSWIND.jpg)
+![Project 2](assets/img/IM.jpeg)
+![Project 2](assets/img/PNT250.jpeg)
+![Project 2](assets/img/WT.jpeg)
+![Project 2](assets/img/C_Port.jpeg)
 
-
-### FINERGE - FUNDAÇÃO PARA AEROGERADOR GE 158
-- **Description:**
+### FINERGE - FUNDAÇÃO PARA AEROGERADOR Cypress-158
+- **Description:** Desing of foundation for a wind turbine tower with 121 m height and rotor diameter of 158m in Portugal. 
 - **Structural type:** Concrete.
 - **Project Environment:** CAD.
 - **Activities:** 
