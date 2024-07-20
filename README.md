@@ -88,32 +88,34 @@
 - **Project Environment:** CAD.
 - **Activities:** 
   - Shallow Foundation Design.
-  - Steel Design (2D Frame structure, Runway Beams, Facade Elements).
-  - Desing steel connections.
   - Draw 2D details.
 ![Project 460](assets/img/460-Finerge_GE156-(4).jpg)
 ![Project 460](assets/img/460-Finerge_GE156-(11).jpg)
-
-### CSWIND - UNIDADE INDUSTRIAL DA CSWIND-ONSHORE EM SEVER DO VOLGA
+![Project 460](assets/img/460-Project.jpg)
 
 ### APDL - Porto Seco Guarda 
+- **Description:** Railway facility to load cargo in the middle of the country and cary to the final port.
 - **Estimated Cost: 500k€ Structures and Foundation**
 - **Structural type:** Concrete + Steel.
 - **Project Environment:** Revit + CAD.
 - **Activities:** 
   - Shallow Foundation Design.
-  - Steel Design (2D Frame structure, Runway Beams, Facade Elements).
+  - Concrete design of small buildings.
+  - Steel walkway desing, span over 12m.
   - Desing steel connections.
   - Draw 2D details.
  
 ### Kronos Homes - Lisboa - Zen Paço Lumiar
+- **Description:** Three Residencial  buildings in Lisbon with 8 floors.
 - **Estimated Cost: 5.4 M Estruturas e Fundações.**
 - **Structural type:** Concrete + Steel.
 - **Project Environment:** Revit + CAD.
 - **Activities:** 
   - Shallow Foundation Design.
-  - Steel Design (2D Frame structure, Runway Beams, Facade Elements).
+  - Steel Design (2D Frame structure, Facade Elements).
   - Desing steel connections.
+  - Concrete design with special atention to the eurocode 8 requirements due to the high sismic action.
+  - 3D modeling.
   - Draw 2D details.
 
 ### EFI - Cotovia - Sesimbra  
