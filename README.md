@@ -83,7 +83,7 @@
 ![Project 2](assets/img/C_Port.jpeg)
 
 ### FINERGE - FUNDAÇÃO PARA AEROGERADOR Cypress-158
-- **Description:** Optimization project for foundation for a wind turbine tower with 121 m height and rotor diameter of 158m in Portugal due to high prices due the war in Ukraine.
+- **Description:** Optimization project of foundation for a wind turbine tower with 121 m height and rotor diameter of 158m in Portugal due to high prices due the war in Ukraine.
 - **Estimated Cost Saving:** 80k€ per foundation.
 - **Structural type:** Concrete.
 - **Project Environment:** CAD.
