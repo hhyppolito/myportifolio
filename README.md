@@ -83,7 +83,8 @@
 ![Project 2](assets/img/C_Port.jpeg)
 
 ### FINERGE - FUNDAÇÃO PARA AEROGERADOR Cypress-158
-- **Description:** Desing of foundation for a wind turbine tower with 121 m height and rotor diameter of 158m in Portugal. 
+- **Description:** Optimization project for foundation for a wind turbine tower with 121 m height and rotor diameter of 158m in Portugal due to high prices due the war in Ukraine.
+- **Estimated Cost Saving:** 80k€ per foundation.
 - **Structural type:** Concrete.
 - **Project Environment:** CAD.
 - **Activities:** 
@@ -95,7 +96,7 @@
 
 ### APDL - Porto Seco Guarda 
 - **Description:** Railway facility to load cargo in the middle of the country and cary to the final port.
-- **Estimated Cost: 500k€ Structures and Foundation**
+- **Estimated Cost:** 500k€ Structures and Foundation.
 - **Structural type:** Concrete + Steel.
 - **Project Environment:** Revit + CAD.
 - **Activities:** 
@@ -107,7 +108,7 @@
  
 ### Kronos Homes - Lisboa - Zen Paço Lumiar
 - **Description:** Three Residencial  buildings in Lisbon with 8 floors.
-- **Estimated Cost: 5.4 M Estruturas e Fundações.**
+- **Estimated Cost:** 5.4 M€ Structures and Foundation.
 - **Structural type:** Concrete + Steel.
 - **Project Environment:** Revit + CAD.
 - **Activities:** 
@@ -118,14 +119,17 @@
   - 3D modeling.
   - Draw 2D details.
 
+![Project 434](assets/gifs/ZEN.gif)
+
 ### EFI - Cotovia - Sesimbra  
-- **Description: 2.3M Structures and Foundation.**
-- **Structural type:** Concrete + Steel.
+- **Description:** Three Residencial  buildings in Lisbon with 4 floors.
+- **Description:** 2.3M€ Structures and Foundation.
+- **Structural type:** Concrete.
 - **Project Environment:** Revit + CAD.
 - **Activities:** 
   - Shallow Foundation Design.
-  - Steel Design (2D Frame structure, Runway Beams, Facade Elements).
-  - Desing steel connections.
+  - Concrete design with special atention to the eurocode 8 requirements due to the high sismic action.
+  - 3D modeling.
   - Draw 2D details.
   
 ### Other Projects
