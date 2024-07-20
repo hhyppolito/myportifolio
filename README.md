@@ -78,7 +78,7 @@
   - Draw 2D details and 3D modeling of structural elements.
 ![Project 2](assets/img/426-CSWIND.jpg)
 ![Project 2](assets/img/IM.jpeg)
-![Project 2](assets/img/PNT250.jpeg)
+![Project 2](assets/img/pt250.jpeg)
 ![Project 2](assets/img/WT.jpeg)
 ![Project 2](assets/img/C_Port.jpeg)
 
