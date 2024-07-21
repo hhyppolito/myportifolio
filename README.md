@@ -13,7 +13,8 @@
 
 ## Core Projects
 ### APDL - CENTRO INSPETIVO DO PORTO DE LEIXÕES (CIPL)
-- **Description:** 1.2M€ Structures and Foundation.
+- **Description:** Inspection center of the Leixões Port in Porto, Portugal.
+- **Estimated Cost:** 1.2M€ Structures and Foundation.
 - **Structural type:** Precast Concrete. 
 - **Project Environment:** Revit + CAD.
 - **Activities:** 
@@ -23,7 +24,7 @@
 ![Project 222](assets/img/APDL_V2__Photo-1.jpg)
 
 ### ÁGUAS DE GAIA - SEDE DAS ÁGUAS DE GAIA
-- **Description:** Headquarters of the water supply agency of Vila Nova de Gaia municipality of Porto,Portugal.
+- **Description:** Headquarters of the water supply agency of Vila Nova de Gaia municipality of Porto, Portugal.
 - **Estimated Cost:** 3.3€ Structures and Foundation.
 - **Structural type:** Concrete and Precast Concrete.
 - **Project Environment:** CAD.
@@ -65,6 +66,7 @@
 ![Project 1](assets/img/351-MHASS.jpg)
 
 ### CSWIND - UNIDADE INDUSTRIAL DA CSWIND-OFFSHORE EM ÍLHAVO
+- **Description:** Expation of the CSWind Factory (Towers for offshore wind turbines) in Portugal.
 - **Estimated Cost:** 55M€ Structures and Foundation.
 - **Structural type:** Precast and In-Situ Concrete and Steel.
 - **Project Environment:** Tekla + CAD.
