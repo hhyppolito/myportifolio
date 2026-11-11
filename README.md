@@ -155,4 +155,39 @@
 #### EP - Execution Project
 #### BFC - Biding for Construction
 #### PL - Porject for licensing
- 
+
+---
+
+## Guia de manutenção do repositório
+
+Este repositório apresenta o percurso e projetos de engenharia estrutural de Henrique Hyppolito. O conteúdo acima foi preservado como portefólio.
+
+### Estrutura e tecnologia
+
+O site usa Markdown, um layout HTML/Liquid e estilos SCSS, com o tema Jekyll Minimal indicado em [_config.yml](_config.yml).
+
+- [README.md](README.md): apresentação em Markdown; pode também alimentar a página gerada pelo GitHub Pages.
+- [_config.yml](_config.yml): título, descrição, imagem de perfil e tema.
+- [_layouts/default.html](_layouts/default.html): estrutura visual.
+- [assets/css/style.scss](assets/css/style.scss): estilos.
+- [assets/img](assets/img): imagens.
+- [assets/docs](assets/docs): documentos de apoio.
+- [assets/gifs](assets/gifs): demonstrações animadas dos projetos.
+
+### Atualizar conteúdo
+
+1. Editar o texto da apresentação e os projetos relevantes.
+2. Colocar novas imagens/documentos nas pastas existentes e usar caminhos relativos.
+3. Atualizar título e descrição no ficheiro de configuração quando necessário.
+4. Conferir links, imagens, legibilidade em telemóvel e texto alternativo das imagens.
+5. Rever a versão gerada antes de a publicar.
+
+### Pré-visualização e publicação
+
+É necessário um ambiente Jekyll/Ruby compatível com o tema ou uma configuração GitHub Pages. Este repositório não inclui `Gemfile` nem lockfile: não há um ambiente Ruby local completamente reproduzível definido no código. Um servidor HTTP simples não processa Markdown, Liquid ou SCSS.
+
+A branch/pasta de publicação e o domínio devem ser confirmados nas definições GitHub Pages. O nome do repositório, por si só, não confirma o endereço em funcionamento. Alterações ao README podem alterar a página se ele for usado como conteúdo pelo Pages.
+
+### Verificação
+
+Documentação de manutenção baseada na árvore e configuração lidas em 11/11/2026. Não foi executado build Jekyll nem confirmada a publicação. Não foi identificada uma suite de testes neste repositório.
